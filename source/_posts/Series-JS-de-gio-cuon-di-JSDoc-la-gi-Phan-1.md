@@ -17,6 +17,7 @@ autoThumbnailImage: yes
     JSDoc là một ngôn ngữ đánh dấu dùng để chú thích tập tin mã nguồn JavaScript. Sử dụng chú thích JSDoc, lập trình viên có thể thêm tài liệu mô tả các application programming interface cho code của họ đang viết ra. Sau đó được xử lý, bởi các công cụ khác nhau, để tạo ra các tài liệu trong các định dạng tiếp cận như HTML và Rich Text Format.
     @wikipedia:en.wikipedia.org/wiki/JSDoc
 {% endblockquote %}
+<!-- more -->
 Tại sao cần JSDoc?
 
 Với JSDoc bạn chỉ cần thêm 1 plugin để generate tài liệu ra 1 trang web. Vậy là bạn đã có 1 trang Document cho code của mình rồi ^^!.
